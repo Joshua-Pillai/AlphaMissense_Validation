@@ -2,7 +2,7 @@
 
 Title: Benchmarking AlphaMissense pathogenicity predictions against APP, PSEN1, and PSEN2 variants of unknown significance
 
-Authors: Joshua Pillai, Kijung Sung, Sophia Liu, Zhixia Shi, Chengbiao Wu.
+Authors: Joshua Pillai, Sophia Liu, Kijung Sung, Zhixia Shi, Chengbiao Wu.
 
 Institutions:
 
