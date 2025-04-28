@@ -1,3 +1,5 @@
+# script was run in Google Colab with pre-installed libraries.
+
 import pandas as pd
 
 df = pd.read_csv('/content/Test Run327 - Sheet1.csv')
